@@ -59,13 +59,6 @@ Incorporating additional features — such as pre-existing conditions and claims
 
 ---
 
-## Deliverables
-
-- Final presentation slides
-- Reproducible analysis code
-
----
-
 ## Goal
 
 To demonstrate rigorous statistical reasoning, clear communication, and proper application of statistical modeling techniques in a real-world medical cost prediction context.
