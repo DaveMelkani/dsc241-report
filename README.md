@@ -1,7 +1,7 @@
 # Medical Cost Prediction in the United States
 ## DSC 241 – Statistical Models | Winter 2026 Final Project
 **Authors:** Dave Melkani & Eric Ness
-## This repository contains the final project for **DSC 241: Statistical Models (Winter 2026)**. The objective is to effectively predict individual medical insurance charges from demographic and health attributes, and to interpret the results using a progression of statistical models.
+This repository contains the final project for **DSC 241: Statistical Models (Winter 2026)**. The objective is to effectively predict individual medical insurance charges from demographic and health attributes, and to interpret the results using a progression of statistical models.
 The data for this project comes from https://www.kaggle.com/datasets/mirichoi0218/insurance/data
 ---
 ## Problem Statement
